@@ -1,7 +1,7 @@
 # UI-Cropping-Image
 A simply UI cropping image library for WPF that use adroner layer. Some screenshots:
 
-### Installing
+### Installingd
 
 
 
