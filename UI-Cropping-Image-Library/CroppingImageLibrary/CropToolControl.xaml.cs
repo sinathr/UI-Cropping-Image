@@ -20,6 +20,7 @@ namespace CroppingImageLibrary
 
 
 
+
         private bool squareSelection = false;
         [Description("Whether to force the user to select only square or not"), Category("Data")]
         public bool SquareSelection
