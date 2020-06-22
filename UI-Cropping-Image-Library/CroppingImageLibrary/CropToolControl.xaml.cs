@@ -8,6 +8,7 @@ using CroppingImageLibrary.Services;
 
 namespace CroppingImageLibrary
 {
+    
     /// <summary>
     /// Interaction logic for CropToolControl.xaml
     /// </summary>
